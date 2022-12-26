@@ -1,0 +1,26 @@
+{
+    "0": {
+        "lastname": "Лисицин",
+        "firstname": "Сергей",
+        "phone": "+74953457213",
+        "description": "рабочий"
+    },
+    "1": {
+        "lastname": "ЛиСиЦин",
+        "firstname": "Андрей",
+        "phone": "+74953757413",
+        "description": "домашний"
+    },
+    "2": {
+        "lastname": "Смирнов",
+        "firstname": "Андрей",
+        "phone": "+79155457213",
+        "description": "домашний"
+    },
+    "3": {
+        "lastname": "Попов",
+        "firstname": "Алексей",
+        "phone": "+79065457213",
+        "description": "рабочий"
+    }
+}

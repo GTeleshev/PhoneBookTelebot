@@ -1,0 +1,65 @@
+2022.12.25 - 19:12:28: start called
+2022.12.25 - 19:12:30: printall called
+2022.12.25 - 19:12:36: export called
+2022.12.25 - 19:12:41: log called
+2022.12.25 - 19:13:45: search called
+2022.12.25 - 19:13:54: search for: Лисицин
+2022.12.25 - 19:14:30: log called
+2022.12.25 - 19:14:56: search called
+2022.12.25 - 19:15:0: empty search for: Fggdd
+2022.12.25 - 19:15:9: export called
+2022.12.25 - 19:37:20: start called
+2022.12.25 - 19:37:22: printall called
+2022.12.25 - 19:37:29: search called
+2022.12.25 - 19:37:32: empty search for: Fggg
+2022.12.25 - 19:37:37: log called
+2022.12.25 - 19:51:29: log called
+2022.12.25 - 19:51:36: start called
+2022.12.25 - 19:51:38: log called
+2022.12.25 - 19:51:45: printall called
+2022.12.25 - 19:51:51: export called
+2022.12.25 - 20:17:46: search called
+2022.12.25 - 20:17:55: empty search for: Синицин
+2022.12.25 - 20:18:1: search called
+2022.12.25 - 20:18:9: search for: Лисицин
+2022.12.25 - 21:16:49: add called
+2022.12.25 - 21:21:33: add called
+2022.12.25 - 21:23:44: add called
+2022.12.25 - 21:26:1: add called
+2022.12.25 - 21:26:44: start called
+2022.12.25 - 21:26:47: printall called
+2022.12.25 - 21:29:17: start called
+2022.12.25 - 21:29:23: printall called
+2022.12.25 - 21:29:52: log called
+2022.12.25 - 21:33:8: add called
+2022.12.25 - 21:34:14: start called
+2022.12.25 - 21:34:19: printall called
+2022.12.25 - 21:34:46: printall called
+2022.12.25 - 21:35:2: export called
+2022.12.25 - 21:37:27: search called
+2022.12.25 - 21:38:6: search for: воробьёва
+2022.12.25 - 21:45:19: printall called
+2022.12.25 - 21:46:27: printall called
+2022.12.25 - 21:46:34: add called
+2022.12.25 - 21:47:45: printall called
+2022.12.25 - 21:47:52: delete called
+2022.12.25 - 21:48:5: printall called
+2022.12.25 - 21:48:30: printall called
+2022.12.25 - 21:48:54: delete called
+2022.12.25 - 21:49:10: printall called
+2022.12.25 - 21:49:31: printall called
+2022.12.25 - 21:50:49: printall called
+2022.12.25 - 21:50:56: export called
+2022.12.26 - 10:12:54: start called
+2022.12.26 - 10:13:2: printall called
+2022.12.26 - 10:13:6: export called
+2022.12.26 - 10:13:10: log called
+2022.12.26 - 11:33:57: printall called
+2022.12.26 - 11:34:1: export called
+2022.12.26 - 11:34:5: log called
+2022.12.26 - 11:34:47: printall called
+2022.12.26 - 11:34:49: log called
+2022.12.26 - 11:47:30: start called
+2022.12.26 - 11:47:33: printall called
+2022.12.26 - 11:47:36: export called
+2022.12.26 - 11:47:58: log called
